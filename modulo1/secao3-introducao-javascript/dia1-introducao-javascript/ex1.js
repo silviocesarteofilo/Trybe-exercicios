@@ -1,10 +1,10 @@
-let a = 10
-let b = 6
+let a = 10;
+let b = 6;
 
-let subtracao = a - b
-let adicao = a + b
-let divisao = a / b
-let multiplicacao = a * b
+let subtracao = a - b;
+let adicao = a + b;
+let divisao = a / b;
+let multiplicacao = a * b;
 
 
 console.log(subtracao);
